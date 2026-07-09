@@ -173,5 +173,5 @@ Response:
 ## Submission
 
 - Position: _(fill in — Software Developer Intern / Software Developer Full-Time)_
-- Hosted app URL: _(fill in after deployment)_
+- Hosted app URL: https://groweasy-csv-importer-olive.vercel.app
 - GitHub repo URL: https://github.com/pushpanjali1909/groweasy-csv-importer
